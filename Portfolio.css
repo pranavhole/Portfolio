@@ -271,7 +271,7 @@ body{
 }
 .about .image img{
     border: solid #FFC42E;
-    padding-top : 20px;
+    margin-top: 40px;
     border-radius: 2%;
     margin-left: 50px;
     width: 200px;
