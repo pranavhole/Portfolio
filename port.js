@@ -23,7 +23,7 @@ const elts = {
 
 const texts = [
     "Competitive Programmer ",
-    "Ethical Hacker",
+    "Blockchain Developer",
     "Web Devloper",
 
 ];
